@@ -10,67 +10,67 @@
           {
             "name": "Омлет по-деревенски",
             "description": "",
-            "price": 380
+            "cost": 380
           },
           {
             "name": "Яйцо пашот с семгой слабого посола",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Горячий сэндвич",
             "description": "",
-            "price": 420
+            "cost": 420
           },
           {
             "name": "Яичница-глазунья",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Овсяная каша с вареньем из черной смородины",
             "description": "",
-            "price": 295
+            "cost": 295
           },
           {
             "name": "Рисовая каша с вареньем из черной смородины",
             "description": "",
-            "price": 295
+            "cost": 295
           },
           {
             "name": "Запеканка творожная",
             "description": "",
-            "price": 595
+            "cost": 595
           },
           {
             "name": "Сырники из домашнего творога",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Какао",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Блины с разными видами варенья и сметаной",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Блины с мясом",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Блины с семгой",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Шакшука",
             "description": "яичница с помидорами",
-            "price": 595
+            "cost": 595
           }
         ]
       },
@@ -81,77 +81,77 @@
           {
             "name": "Салат с лососем слабого посола и киноа",
             "description": "",
-            "price": 990
+            "cost": 990
           },
           {
             "name": "Греческий салат",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Салат домашний из свежих овощей с деревенским маслом",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Салат деревенский с редисом, яйцом и сметаной",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Винегрет с сельдью",
             "description": "",
-            "price": 520
+            "cost": 520
           },
           {
             "name": "Оливье с курицей",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Оливье с раковыми шейками",
             "description": "",
-            "price": 990
+            "cost": 990
           },
           {
             "name": "Салат из сладких томатов с красным луком",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Салат с фермерской уткой и медовой грушей",
             "description": "",
-            "price": 820
+            "cost": 820
           },
           {
             "name": "Теплый салат с морепродуктами",
             "description": "",
-            "price": 1200
+            "cost": 1200
           },
           {
             "name": "Теплый салат с говяжьей вырезкой",
             "description": "",
-            "price": 960
+            "cost": 960
           },
           {
             "name": "Цезарь классический с курицей",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Цезарь с тигровыми креветками",
             "description": "",
-            "price": 930
+            "cost": 930
           },
           {
             "name": "Битые огурцы",
             "description": "",
-            "price": 560
+            "cost": 560
           },
           {
             "name": "Салат в азиатском стиле с куриной печенью",
             "description": "",
-            "price": 850
+            "cost": 850
           }
         ]
       },
@@ -162,72 +162,72 @@
           {
             "name": "Буррата со свежими томатами и бальзамическим кремом",
             "description": "",
-            "price": 1100
+            "cost": 1100
           },
           {
             "name": "Семга слабосоленая",
             "description": "",
-            "price": 890
+            "cost": 890
           },
           {
             "name": "Свекла с фетой, черносливом и кедровыми орешками",
             "description": "",
-            "price": 590
+            "cost": 590
           },
           {
             "name": "Соленые грибы",
             "description": "грузди и боровики",
-            "price": 990
+            "cost": 990
           },
           {
             "name": "Тар-тар с лососем и красной икрой",
             "description": "",
-            "price": 990
+            "cost": 990
           },
           {
             "name": "Ассорти солений",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Сало домашнее",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Ассорти из свежих овощей",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Филе атлантической сельди с картофелем",
             "description": "",
-            "price": 460
+            "cost": 460
           },
           {
             "name": "Язык говяжий с хреном",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Домашний печеночный паштет",
             "description": "",
-            "price": 580
+            "cost": 580
           },
           {
             "name": "Сыр Сулугуни",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Тар-тар из говяжьей вырезки",
             "description": "",
-            "price": 990
+            "cost": 990
           },
           {
             "name": "Щука фаршированная",
             "description": "",
-            "price": 650
+            "cost": 650
           }
         ]
       },
@@ -238,72 +238,72 @@
           {
             "name": "Вёшенки жареные с луком",
             "description": "",
-            "price": 590
+            "cost": 590
           },
           {
             "name": "Жареный картофель с белыми грибами",
             "description": "",
-            "price": 720
+            "cost": 720
           },
           {
             "name": "Гречневая каша с грибами",
             "description": "",
-            "price": 480
+            "cost": 480
           },
           {
             "name": "Жареный сулугуни",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Хоровац",
             "description": "икра из печеных на мангале овощей",
-            "price": 620
+            "cost": 620
           },
           {
             "name": "Оладьи из кабачков",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Щучья икра с картофельными драниками и сметаной",
             "description": "",
-            "price": 690
+            "cost": 690
           },
           {
             "name": "Жульен с раковыми шейками",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Жульен с грибами",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Эскарго",
             "description": "бургундские улитки в чесночном соусе",
-            "price": 1350
+            "cost": 1350
           },
           {
             "name": "Мидии в сливочном / томатном соусе",
             "description": "",
-            "price": 1100
+            "cost": 1100
           },
           {
             "name": "Чесночные гренки",
             "description": "",
-            "price": 250
+            "cost": 250
           },
           {
             "name": "Картофельная запеканка с белыми грибами по-крестьянски",
             "description": "",
-            "price": 950
+            "cost": 950
           },
           {
             "name": "Хрустящие баклажаны с томатами в соусе Чили",
             "description": "",
-            "price": 660
+            "cost": 660
           }
         ]
       },
@@ -314,22 +314,22 @@
           {
             "name": "Чебурек ручной лепки 1 шт.",
             "description": "",
-            "price": 250
+            "cost": 250
           },
           {
             "name": "Расстегаи 2 шт.",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Пирожки с капустой и яйцом 2 шт.",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Лепешка с сыром/с мясом/со шпинатом",
             "description": "",
-            "price": 690
+            "cost": 690
           }
         ]
       },
@@ -340,22 +340,22 @@
           {
             "name": "Пельмени Сибирские",
             "description": "говядина, свинина",
-            "price": 460
+            "cost": 460
           },
           {
             "name": "Пельмени из цыпленка",
             "description": "",
-            "price": 460
+            "cost": 460
           },
           {
             "name": "Вареники с вишней",
             "description": "",
-            "price": 460
+            "cost": 460
           },
           {
             "name": "Вареники с картошкой",
             "description": "",
-            "price": 460
+            "cost": 460
           }
         ]
       },
@@ -366,27 +366,27 @@
           {
             "name": "Том Ям с морепродуктами",
             "description": "",
-            "price": 950
+            "cost": 950
           },
           {
             "name": "Борщ",
             "description": "",
-            "price": 490
+            "cost": 490
           },
           {
             "name": "Куриный суп по-Домашнему",
             "description": "",
-            "price": 490
+            "cost": 490
           },
           {
             "name": "Грибная похлебка",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Солянка рыбацкая",
             "description": "",
-            "price": 650
+            "cost": 650
           }
         ]
       },
@@ -397,27 +397,27 @@
           {
             "name": "Соба / Фунчеза / Удон с овощами",
             "description": "ингредиенты на выбор",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Морепродукты",
             "description": "",
-            "price": 400
+            "cost": 400
           },
           {
             "name": "Телятина",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Курица",
             "description": "",
-            "price": 250
+            "cost": 250
           },
           {
             "name": "Тигровые креветки",
             "description": "",
-            "price": 400
+            "cost": 400
           }
         ]
       },
@@ -428,27 +428,27 @@
           {
             "name": "Карбонара",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Болоньезе",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Папарделли с морепродуктами",
             "description": "",
-            "price": 900
+            "cost": 900
           },
           {
             "name": "Пенне с овощами",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Ригатони с белыми грибами",
             "description": "",
-            "price": 880
+            "cost": 880
           }
         ]
       },
@@ -459,57 +459,57 @@
           {
             "name": "Пицца Маргарита",
             "description": "",
-            "price": 495
+            "cost": 495
           },
           {
             "name": "Пицца Болоньезе",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Пеперони",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Пицца с морепродуктами",
             "description": "",
-            "price": 900
+            "cost": 900
           },
           {
             "name": "Пицца с медовой грушей и Горгонзолой",
             "description": "",
-            "price": 680
+            "cost": 680
           },
           {
             "name": "Пицца Четыре сыра",
             "description": "",
-            "price": 850
+            "cost": 850
           },
           {
             "name": "Охотничья пицца",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Пицца с ветчиной и грибами",
             "description": "",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Пицца «Цезарь»",
             "description": "",
-            "price": 690
+            "cost": 690
           },
           {
             "name": "Фокачча",
             "description": "",
-            "price": 250
+            "cost": 250
           },
           {
             "name": "Фокачча с пармезаном",
             "description": "",
-            "price": 350
+            "cost": 350
           }
         ]
       },
@@ -520,67 +520,67 @@
           {
             "name": "Перепелка по-Никологорски",
             "description": "",
-            "price": 990
+            "cost": 990
           },
           {
             "name": "Котлеты по-Никологорски",
             "description": "с гарниром на выбор",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Котлеты из цыпленка",
             "description": "с гарниром на выбор",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Оладьи из куриной печени и тыквы",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Цыпленок табака",
             "description": "",
-            "price": 850
+            "cost": 850
           },
           {
             "name": "Жаркое из кролика",
             "description": "",
-            "price": 880
+            "cost": 880
           },
           {
             "name": "Шницель по-Никологорски ",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Картофель с тушенкой",
             "description": "",
-            "price": 620
+            "cost": 620
           },
           {
             "name": "Фермерская утиная грудка",
             "description": "",
-            "price": 690
+            "cost": 690
           },
           {
             "name": "Бургер из ягненка на открытом огне с фри",
             "description": "",
-            "price": 950
+            "cost": 950
           },
           {
             "name": "Картофельный драник с курицей и овощами",
             "description": "",
-            "price": 660
+            "cost": 660
           },
           {
             "name": "Бефстроганов из говяжьей вырезки с белыми грибами",
             "description": "",
-            "price": 980
+            "cost": 980
           },
           {
             "name": "Щёчки молодого домашнего бычка",
             "description": "с картофельным пюре",
-            "price": 1250
+            "cost": 1250
           }
         ]
       },
@@ -591,27 +591,27 @@
           {
             "name": "Креветки темпура с кисло-сладким Чили и соусом Тар-тар",
             "description": "",
-            "price": 650
+            "cost": 650
           },
           {
             "name": "Креветки камчатские отварные за 100г",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Нежные котлеты из трех видов рыб",
             "description": "",
-            "price": 795
+            "cost": 795
           },
           {
             "name": "Семга в пергаменте с овощами",
             "description": "",
-            "price": 1350
+            "cost": 1350
           },
           {
             "name": "Запеченная Дорадо с овощами",
             "description": "",
-            "price": 1450
+            "cost": 1450
           }
         ]
       },
@@ -622,37 +622,37 @@
           {
             "name": "Рис",
             "description": "",
-            "price": 200
+            "cost": 200
           },
           {
             "name": "Спагетти",
             "description": "",
-            "price": 230
+            "cost": 230
           },
           {
             "name": "Гречневая каша",
             "description": "",
-            "price": 200
+            "cost": 200
           },
           {
             "name": "Отварной картофель",
             "description": "",
-            "price": 200
+            "cost": 200
           },
           {
             "name": "Картофельное пюре",
             "description": "",
-            "price": 230
+            "cost": 230
           },
           {
             "name": "Картофель Фри",
             "description": "",
-            "price": 230
+            "cost": 230
           },
           {
             "name": "Овощи на гриле",
             "description": "",
-            "price": 300
+            "cost": 300
           }
         ]
       },
@@ -663,42 +663,42 @@
           {
             "name": "Фирменный стейк из говяжьей вырезки",
             "description": "за 100г. готовой продукции",
-            "price": 750
+            "cost": 750
           },
           {
             "name": "Шашлык из курицы",
             "description": "за 100г. готовой продукции",
-            "price": 330
+            "cost": 330
           },
           {
             "name": "Шашлык из свиной шейки",
             "description": "за 100г. готовой продукции",
-            "price": 390
+            "cost": 390
           },
           {
             "name": "Король-кебаб по-турецки",
             "description": "за 100г. готовой продукции",
-            "price": 600
+            "cost": 600
           },
           {
             "name": "Люля-кебаб из баранины",
             "description": "за 100г. готовой продукции",
-            "price": 440
+            "cost": 440
           },
           {
             "name": "Шашлык из говяжьей вырезки",
             "description": "за 100г. готовой продукции",
-            "price": 690
+            "cost": 690
           },
           {
             "name": "Корейка ягненка (Новая Зеландия)",
             "description": "за 100г. готовой продукции",
-            "price": 1600
+            "cost": 1600
           },
           {
             "name": "Шашлык из осетрины",
             "description": "за 100г. готовой продукции",
-            "price": 1100
+            "cost": 1100
           }
         ]
       },
@@ -709,52 +709,52 @@
           {
             "name": "Вишневый пирог",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Яблочный пирог",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Шоколадный фондан",
             "description": "",
-            "price": 450
+            "cost": 450
           },
           {
             "name": "Торт Наполеон",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Мадлен",
             "description": "",
-            "price": 200
+            "cost": 200
           },
           {
             "name": "Японское мороженое Моджи 1 шт.",
             "description": "",
-            "price": 250
+            "cost": 250
           },
           {
             "name": "Варенье в ассортименте",
             "description": "",
-            "price": 150
+            "cost": 150
           },
           {
             "name": "Мед натуральный",
             "description": "",
-            "price": 150
+            "cost": 150
           },
           {
             "name": "Сорбет Мовен Пик",
             "description": "",
-            "price": 350
+            "cost": 350
           },
           {
             "name": "Мороженое Мовен Пик",
             "description": "",
-            "price": 350
+            "cost": 350
           }
         ]
       },
@@ -765,22 +765,22 @@
           {
             "name": "Брускетта с креветками и соусом гуакамоле",
             "description": "",
-            "price": 950
+            "cost": 950
           },
           {
             "name": "Брускетта с томатами",
             "description": "",
-            "price": 550
+            "cost": 550
           },
           {
             "name": "Брускетта со сливочным сыром и перцем Ромиро",
             "description": "",
-            "price": 690
+            "cost": 690
           },
           {
             "name": "Брускетта с баклажанами",
             "description": "",
-            "price": 550
+            "cost": 550
           }
         ]
       }
